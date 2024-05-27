@@ -10,7 +10,6 @@ This repository contains the completed assignments for various Tableau practice 
 - [Assignment 4: HPIRegions Volume Analysis](#assignment-4-hpiregions-volume-analysis)
 - [Assignment 5: States Population Map](#assignment-5-states-population-map)
 - [How to View the Visualizations](#how-to-view-the-visualizations)
-- [License](#license)
 
 ## Assignment 1: CDs Analysis
 
